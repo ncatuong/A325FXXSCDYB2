@@ -4,5 +4,6 @@
 branches structure:
 - kernel: original kernel
 - raw: downloaded all things from scamsung opensource
+- platform: device tree i guess
 - more ig
 ```
