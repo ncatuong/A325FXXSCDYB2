@@ -1,1 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
 SM-A325F_EUR_13_Opensource.zip filter=lfs diff=lfs merge=lfs -text
